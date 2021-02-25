@@ -1,0 +1,6 @@
+love_books = true
+string = "I like to bird watch"
+second_string = "I am also into bird photography; particularly hummingbirds."
+array_of_hobbies = ["hiking", "painting", "snuggling with my dog"]
+I also like to volunteer whenever I get the chance.
+Eating
